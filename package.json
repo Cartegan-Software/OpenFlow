@@ -1,5 +1,5 @@
 {
-  "name": "OpenFlow",
+  "name": "openflow",
   "private": true,
   "scripts": {
     "build": "turbo build",

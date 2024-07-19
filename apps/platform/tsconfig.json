@@ -1,0 +1,13 @@
+{
+  "include": [
+    "**/*.ts",
+    "**/*.tsx",
+    "**/.server/**/*.ts",
+    "**/.server/**/*.tsx",
+    "**/.client/**/*.ts",
+    "**/.client/**/*.tsx"
+  ],
+  "extends": "@openflow/typescript-config/remix.json",
+  "compilerOptions": {},
+  "exclude": ["node_modules", "build", "public/build"]
+}
